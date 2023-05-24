@@ -1,0 +1,7 @@
+name: PetPlugin
+version: '${project.version}'
+main: wave.petplugin.PetPlugin
+api-version: 1.19
+commands:
+  pet:
+    description: Create ur pet/Remove ur pet
